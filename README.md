@@ -1,6 +1,8 @@
 # QueroDoarApp
 Trabalho de Conclusao de Curso
 
+Aplicativo "QueroDoarApp"
+
 A doação na perspectiva de aplicativos sociais
 http://proceedings.ciaiq.org/index.php/ciaiq2017/article/view/1121
 
@@ -17,11 +19,6 @@ http://www.scielo.mec.pt/pdf/rist/n23/n23a02.pdf
 Consumo colaborativo  o impacto do “aplicativo do desapego” no desenvolvimento do consumo colaborativo em Porto Alegre
 http://www.lume.ufrgs.br/handle/10183/158583
 
-
-
-
-
-
-
-
+Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK
+https://books.google.com.br/books?id=6DQACwAAQBAJ&printsec=frontcover&dq=google+android+aprenda+a+criar&hl=pt-BR&sa=X&ved=0ahUKEwiVpuSwqJDaAhVMlZAKHT4kBMsQ6AEIKDAA#v=onepage&q=google%20android%20aprenda%20a%20criar&f=false
 
